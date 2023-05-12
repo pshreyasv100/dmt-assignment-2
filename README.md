@@ -10,4 +10,7 @@ https://www.youtube.com/watch?v=BvRMAgx0mvA <br>
 
 
 - Frequency encoding
-https://medium.com/analytics-vidhya/different-type-of-feature-engineering-encoding-techniques-for-categorical-variable-encoding-214363a016fb
+https://medium.com/analytics-vidhya/different-type-of-feature-engineering-encoding-techniques-for-categorical-variable-encoding-214363a016fb <br>
+https://datascience.stackexchange.com/questions/63749/why-does-frequency-encoding-work <br>
+https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02 <br>
+
