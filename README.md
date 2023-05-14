@@ -14,3 +14,6 @@ https://medium.com/analytics-vidhya/different-type-of-feature-engineering-encodi
 https://datascience.stackexchange.com/questions/63749/why-does-frequency-encoding-work <br>
 https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02 <br>
 
+
+- LightGBM
+ https://medium.com/@raghavbhutani41/gradient-boosting-ranking-algorithm-lightgbm-667050dddaaf <br>
